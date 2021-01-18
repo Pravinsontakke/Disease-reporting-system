@@ -1,4 +1,2 @@
 # Disease-reporting-system
-<Html> <head> <title> Disease reporting system </title>
-</Head>
-<H1> Information about diseases </h1>
+It is a project which is basically did to calculate disease cases.
